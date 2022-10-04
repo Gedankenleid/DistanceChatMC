@@ -1,0 +1,6 @@
+name: DistanceChat
+version: '${project.version}'
+main: de.lamue.distancechat.DistanceChat
+api-version: 1.19
+authors: [ 5TC ]
+description: Chat with players around you
